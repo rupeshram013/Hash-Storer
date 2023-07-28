@@ -1,20 +1,23 @@
 # Hash-Storer
-This is a small program to store user data into a txt file after encrypting the password of the user .
-It is a light weight program .I made it just for fun and it went smooth .It can only store data .
+--Development--
 
-Made with : 
-IDE : Virtual Studio code 
-Programming language : Python 
-Library/Modules : Tkinter , hashlib
+    A hashed login details storing python program .This program is developed using the tkinter module and mysql module .
+![Hash_storer](https://github.com/rupeshram013/Hash-Storer/assets/94728392/03b9b802-69e7-4b3e-909b-66b8af55f3da)
 
-Features : 
-1.Stores user data in a safe way into a txt file . 
-2.Checks if the form is filled and the email is valid or not .
-3.Checks if the account exists in the database or not . 
 
-Made by Rupesh Ram .
+Major problem this program can solve :
+1.Store the password in a hashed format .
+2.Store the data of the user in a mysql database .
+3.User can specify the database's details and store the data .
+
+Syntax :- python main.py <host> <username> <password> <database> <table>
+
+Note : You have to create and host a mysql database server to use this program 
+
+More contacts :
+Discord : [732798054582976594](https://discord.com/channels/@me)
 Twitter : https://twitter.com/RupeshRam013
-Facebook : https://www.facebook.com/rupesh.ram.94009841/
+
 
 
 
